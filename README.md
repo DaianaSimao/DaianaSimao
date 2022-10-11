@@ -1,6 +1,6 @@
 ## Olá! Seja bem-vindo. Eu sou a Daiana Simão. 💕
 <div align="center">
-  <a href="https://github.com/DianaSimao">
+  <a href="https://github.com/DaianaSimao">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DianaSimao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaSimao&layout=compact&langs_count=7&theme=dark"/>
   <style="display: inline_block"><br>
