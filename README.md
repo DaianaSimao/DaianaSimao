@@ -25,4 +25,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![PostgresSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=purple&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&logoColor=css3&labelColor=0D1117)&nbsp;
-
+![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=html5&labelColor=0D1117)&nbsp;
+![GIT](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=git&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=linux&labelColor=0D1117)&nbsp;
