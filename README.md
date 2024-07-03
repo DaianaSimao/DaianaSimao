@@ -10,10 +10,6 @@
 <a href="https://www.linkedin.com/in/daiana-sim%C3%A3o" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaianaSimao&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
- 
  ### Minhas skills:
 ![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117)&nbsp;
 ![Rails](https://img.shields.io/badge/-Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=white&labelColor=0D1117)&nbsp;
