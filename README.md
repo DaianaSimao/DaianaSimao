@@ -40,14 +40,18 @@ Vamos criar algo incrível juntos!
   💌 Se quiser conversar sobre projetos, oportunidades ou apenas trocar ideias sobre tecnologia, aqui estão as formas de me encontrar:
 </p>
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:daiana.xd11@gmail.com" alt="Gmail"/></a>&nbsp;
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiana-simao/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/daianasiimao" alt="Instagram"/></a>&nbsp;
+<p align="left" style="text-decoration: none;">
+  <a href="mailto:daiana.xd11@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/daiana-simao" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/daianasiimao" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;
 </p>
+
  
  ### Minhas skills:
  [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)&nbsp;
@@ -66,4 +70,5 @@ Vamos criar algo incrível juntos!
  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)&nbsp;
  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)&nbsp;
  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)&nbsp;
+ [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
  
