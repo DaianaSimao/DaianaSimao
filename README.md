@@ -1,15 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá! 👋 Sou desenvolvedora Back-end Ruby, com experiência em frameworks como Ruby on Rails, Bootstrap e Tailwind CSS. Tenho uma forte base em bancos de dados relacionais, como MySQL, PostgreSQL e SQLite, desenvolvendo soluções eficientes e escaláveis.
+Desenvolvedora Back-end Ruby, com experiência em Ruby on Rails, Tailwind CSS e bancos relacionais (MySQL, PostgreSQL, SQLite). Também atuo como Full Stack e curso Engenharia de Software. Tenho experiência com Docker, Nest.js, Angular e CI/CD com Azure DevOps. Trabalho em projetos freelance e equipes ágeis, sempre focada em qualidade e inovação. 🚀
 
-Atualmente, também atuo como Desenvolvedora Full Stack e estou cursando Engenharia de Software. Minha experiência inclui projetos freelance e colaboração em equipes ágeis, sempre focada em aprender e aplicar novas tecnologias.
-
-Já tive a oportunidade de dockerizar projetos desenvolvidos com Nest.js e Angular, além de colaborar em implementações usando Azure DevOps para integrar pipelines de CI/CD.
-
-Meus projetos refletem minha paixão por desenvolvimento e meu compromisso com a qualidade e inovação.
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. 🚀
-Vamos criar algo incrível juntos!
 </p>
 
 ### Tecnologias:
